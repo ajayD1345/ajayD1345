@@ -2,9 +2,10 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/🌐_Portfolio-hamedayojide.com-000000?style=for-the-badge)](https://hamedayojide.com)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-hamedayojide.com-000000?style=for-the-badge)](https://foxcaster-portfolio.pages.dev/)
 [![Email](https://img.shields.io/badge/📧_Email-Available_for_Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamedayojide58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ayojide/)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+Enthusiast;Automation+%26+CI%2FCD+Specialist;Available+for+New+Opportunities!" alt="Typing SVG" />
 
@@ -156,9 +157,9 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamedayojide.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://foxcaster-portfolio.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-hamedayojide58@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamedayojide58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-ayojide/)
 
 </div>
 
